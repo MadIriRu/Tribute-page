@@ -1,0 +1,59 @@
+body {
+	font-family: "Montserrat", sans-serif;
+	font-family: "Quicksand", sans-serif;
+}
+h1 {
+	vertical-align: middle;
+}
+#main {
+	margin: 20px 10px;
+	background-color: #eeeeee;
+	padding-top: 10px;
+	border-radius: 0.5em;
+}
+figure {
+	margin-top: 40px;
+	background-color: white;
+}
+figcaption {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+#title,
+#quote,
+figcaption {
+	text-align: center;
+}
+#img-div img {
+	display: block;
+	margin: 0 auto;
+}
+#img-div {
+	padding: 10px 100px;
+}
+#image {
+	margin: 0 auto;
+	max-width: 100%;
+	height: auto;
+	max-height: 100%;
+	overflow: hidden;
+	padding-top: 1em;
+}
+h2 {
+	text-align: center;
+}
+section {
+	text-align: justify;
+	margin: 40px auto;
+}
+
+ul,
+blockquote {
+	width: 40%;
+	margin: 0 auto;
+}
+
+li {
+	margin: 20px 0;
+	line-height: 1.5em;
+}
